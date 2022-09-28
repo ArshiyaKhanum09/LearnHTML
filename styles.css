@@ -1,12 +1,18 @@
-body {
-    background-color: navy;
-    color: white;
-    height: 100vh;
-}
+  .red-text {
+    color: red;
+  }
 
-.everything {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
+  h2 {
+    font-family: Lobster, monospace;
+  }
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+  .smaller-image {
+    width: 100px;
+  }
+  .thick-green-border
+  {
+    border:10px solid green;
+  }
